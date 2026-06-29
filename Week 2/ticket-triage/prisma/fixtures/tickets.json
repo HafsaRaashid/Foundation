@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "Clarify budget approval process for Q3 vendor contracts",
+    "priority": "P0",
+    "owner": "Kavya Nair",
+    "status": "open"
+  },
+  {
+    "id": 2,
+    "title": "Escalate delayed delivery from Supplier XYZ",
+    "priority": "P0",
+    "owner": null,
+    "status": "open"
+  },
+  {
+    "id": 3,
+    "title": "Review and sign off on project charter for Alpha initiative",
+    "priority": "P1",
+    "owner": "Rohan Perera",
+    "status": "open"
+  },
+  {
+    "id": 4,
+    "title": "Update onboarding checklist for new PMO hires",
+    "priority": "P1",
+    "owner": "Kavya Nair",
+    "status": "open"
+  },
+  {
+    "id": 5,
+    "title": "Coordinate cross-functional meeting for roadmap review",
+    "priority": "P1",
+    "owner": null,
+    "status": "open"
+  },
+  {
+    "id": 6,
+    "title": "Compile lessons-learned report from Project Beta",
+    "priority": "P2",
+    "owner": "Rohan Perera",
+    "status": "open"
+  },
+  {
+    "id": 7,
+    "title": "Archive completed project documentation in SharePoint",
+    "priority": "P2",
+    "owner": null,
+    "status": "open"
+  },
+  {
+    "id": 8,
+    "title": "Renew annual software licences before expiry",
+    "priority": "P2",
+    "owner": "Kavya Nair",
+    "status": "open"
+  },
+  {
+    "id": 9,
+    "title": "Request access credentials for new team member",
+    "priority": null,
+    "owner": null,
+    "status": "open"
+  },
+  {
+    "id": 10,
+    "title": "Confirm catering for stakeholder workshop next month",
+    "priority": null,
+    "owner": null,
+    "status": "open"
+  },
+  {
+    "id": 11,
+    "title": "Follow up on outstanding action items from board meeting",
+    "priority": null,
+    "owner": "Kavya Nair",
+    "status": "open"
+  },
+  {
+    "id": 12,
+    "title": "Update risk register with new compliance requirements",
+    "priority": null,
+    "owner": null,
+    "status": "open"
+  }
+]

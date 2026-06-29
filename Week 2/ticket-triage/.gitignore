@@ -1,0 +1,21 @@
+node_modules/
+.next/
+out/
+build/
+
+# Prisma
+/app/generated/prisma
+dev.db
+dev.db-journal
+prisma/dev.db
+prisma/dev.db-journal
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Misc
+.DS_Store
+Thumbs.db
+*.log
